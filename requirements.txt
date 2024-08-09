@@ -1,0 +1,10 @@
+pandas
+matplotlib
+scikit-learn
+colorama
+numpy
+seaborn
+setuptools
+wheel
+twine
+tabulate
